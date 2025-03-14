@@ -24,7 +24,7 @@
 <p align="left">
   <a href="mailto:raad.sask@gmail.com"><strong>Email</strong></a> •
   <a href="https://www.linkedin.com/in/raad-sarker-37935a286/"><strong>LinkedIn</strong></a> •
-  <a href="https://github.com/Raad2004"><strong>GitHub</strong></a>
+  <a href="https://www.instagram.com/raadsarker_/"><strong>Instagram</strong></a>
 </p>
 
 ---
