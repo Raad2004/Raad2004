@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raad Sarker</h1>
+<h1 align="center">Raad Sarker</h1>
 <h3 align="center">A Computer Science Student at UBC, driven to build engaging user experiences and efficient back-end systems</h3>
 
 - 🎓 Expected Graduation: 2026  
